@@ -1,0 +1,6 @@
+<resources>
+
+
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">oYIq1HAKAM1o_0LtlfQzJXfcuywbVyIbgkacW</string>
+    <string name="app_name">NativeStarterKit</string>
+</resources>
